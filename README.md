@@ -1,4 +1,4 @@
-# Sp23Lab1
+# Sp24Lab1
 
 Lab 1 for Spring 24 Data Structures
 
